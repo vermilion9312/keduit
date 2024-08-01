@@ -5,3 +5,9 @@
 	[정답] 
 		14
 '''
+
+total_student_count = 31
+male_student_count = 17
+female_student_count = total_student_count - male_student_count
+
+print(female_student_count)

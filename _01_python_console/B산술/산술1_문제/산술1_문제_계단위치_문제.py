@@ -15,3 +15,16 @@
 	[정답] 
 		58
 '''
+
+print("240801TH")
+
+START_POSITION = 50
+WIN = 3
+LOSE = -2
+DRAW = 0
+
+current_position = START_POSITION
+current_position += 4 * WIN
+current_position += 2 * LOSE
+
+print(current_position)

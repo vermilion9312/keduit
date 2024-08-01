@@ -7,3 +7,15 @@
 	[정답]
 		8300
 '''
+print("240801TH")
+
+cash = 10000
+
+UNIT_PRICE_APPLE = 200
+UNIT_PRICE_TANGERINE = 110
+
+cash -= 3 * UNIT_PRICE_APPLE
+cash -= 10 * UNIT_PRICE_TANGERINE
+
+print(cash)
+

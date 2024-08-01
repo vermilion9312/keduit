@@ -6,3 +6,11 @@
 	[정답] 
 		[정답] 218.42
 '''
+
+print("240801TH")
+
+WEIGHT_APPLE = 140.1
+WEIGHT_TANGERINE = 78.32
+weight_total = WEIGHT_APPLE + WEIGHT_TANGERINE
+
+print(weight_total)
